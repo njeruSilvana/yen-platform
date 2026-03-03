@@ -19,6 +19,7 @@ export interface Idea {
   userName?: string;
   createdAt: Date;
   updatedAt?: Date;
+  status: string;
 }
 
 export interface CreateIdeaData {

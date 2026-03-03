@@ -9,6 +9,7 @@ import {
   HiUserGroup, HiAcademicCap, HiChevronRight, HiRocketLaunch,
 } from 'react-icons/hi2';
 
+
 interface Idea {
   id: string;
   title: string;
